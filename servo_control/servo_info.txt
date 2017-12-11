@@ -1,0 +1,3 @@
+This is the area of the project dedicated for the servo control.
+FINAL FEATURES:
+-Control servo with bluetooth, joystick, potentiometer or other means.
