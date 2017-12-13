@@ -1,0 +1,3 @@
+HC-SR04 ultrasound module for arduino
+4 pins: VCC, GND, TRIGGER, ECHO
+40 kHz signal emitted, analyse echo for distance measurement

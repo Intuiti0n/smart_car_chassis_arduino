@@ -1,0 +1,1 @@
+﻿This is the folder for the main project, where the final working code will be, the other folders have some modules which will be first developed individually and then adapted to use in the main project
