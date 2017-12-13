@@ -5,7 +5,7 @@ This is the first project that i will publish on GitHub. It will help me underst
   <img src="http://img.dxcdn.com/productimages/sku_151803_1.jpg" width="350"/>
   <img src="http://img.dxcdn.com/productimages/sku_151803_1.jpg" width="350"/>
 </p>
-<h2>Features:>/h2>
+<h2>Features:</h2>
 <p>
 * This Car Chassis Kits can be a good DIY choice for you at home
 * 100% Brand new and high quality
