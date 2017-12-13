@@ -41,3 +41,10 @@ This is the first project that i will publish on GitHub. It will help me underst
 <p>
 <img src="images/chassis/mounted_chassis.jpg" alt="Picture of the final project" align="middle" width="350"/></p>
 <p>Picture of the project for now<br></p>
+
+<h3>Links for specific parts of the project</h3>
+<ol>
+<li><a href="motor_control/motor_control.ino">DC MOTOR CONTROL CODE</a></li>
+<li><a href="servo_control/servo_control.ino">SERVO CONTROL CODE</a></li>
+
+</ol>
