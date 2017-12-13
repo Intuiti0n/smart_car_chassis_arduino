@@ -24,6 +24,7 @@ Specifications:
 * Wheel Diameter: 66 mm(approx)
 * Colors: Clear/ Black/ Red/ Blue/ Green(as pictures show)
 * Dimensions(L*W*H): 25.5* 15.5* 6.5 cm(approx)
+
 Package contents:
 4 * Tires
 8 * Fasteners
