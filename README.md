@@ -39,5 +39,5 @@ This is the first project that i will publish on GitHub. It will help me underst
 </p>
 
 <p>
-<img src="images/chassis/mounted_chassis.jpg" alt="Picture of the final project" align="middle" width="350"/>Picture of the project for now<br>
-  </p>
+<img src="images/chassis/mounted_chassis.jpg" alt="Picture of the final project" align="middle" width="350"/></p>
+<p>Picture of the project for now<br></p>
