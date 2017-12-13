@@ -37,3 +37,7 @@ This is the first project that i will publish on GitHub. It will help me underst
 4 * DC gear motors<br>
 1 * Set of Screw, Nut and Copper Pillar<br>
 </p>
+
+<p>
+<img src="images/chassis/mounted_chassis.jpg" alt="Picture of the final project" align="middle" width="350"/>Picture of the project for now<br>
+  </p>
