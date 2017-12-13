@@ -1,0 +1,1 @@
+﻿Tests folder to update people for some issues that i've had during the project, common mistakes, etc
