@@ -1,0 +1,12 @@
+﻿Folder used for the dc motor control and development.
+Materials used: 
+4 Motors: 
+
+Specifications:
+Working Voltage: DC 3V/5V/6V
+Working Current: 100mA/100mA/120mA
+Ni-load (with wheel): 100 RPM/190 RPM/240 RPM
+Speed (no-load): 20 m/min / 39 m/min / 48 m/min
+Noise: ＜65 db
+Wheel Diameter: 66 mm(approx)
+Dimensions(LWH): 25.5* 15.5* 6.5 cm(approx)
