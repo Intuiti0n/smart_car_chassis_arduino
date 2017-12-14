@@ -5,6 +5,7 @@ This is the first project that i will publish on GitHub. It will help me underst
   <img src="http://img.dxcdn.com/productimages/sku_151803_1.jpg" width="350"/>
   <img src="http://img.dxcdn.com/productimages/sku_151803_1.jpg" width="350"/>
 </p>
+<blockquote>
 <h2>Features:</h2>
 <p>
 * This Car Chassis Kits can be a good DIY choice for you at home<br>
@@ -37,7 +38,7 @@ This is the first project that i will publish on GitHub. It will help me underst
 4 * DC gear motors<br>
 1 * Set of Screw, Nut and Copper Pillar<br>
 </p>
-
+</blockquote>
 <p>
 <img src="images/chassis/mounted_chassis.jpg" alt="Picture of the final project" align="middle" width="350"/></p>
 <p>Picture of the project for now<br></p>
