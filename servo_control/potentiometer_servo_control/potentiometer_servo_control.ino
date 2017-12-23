@@ -29,7 +29,7 @@ void servoPulse(int servoPin, int myAngle) {
 }
 
 void check_potentiometer() {
-  short int adc_value = analogRead(A0);
+  short int adc_value = analogRead(A5);
   short int angle = (int) (adc_value / ANGLE_ADC);
   servoPulse(6, angle);
 }
@@ -42,7 +42,7 @@ void setup() {
 
 void loop() {
   check_potentiometer();
-  delay(500);
+  delay(50);
 }
 
 

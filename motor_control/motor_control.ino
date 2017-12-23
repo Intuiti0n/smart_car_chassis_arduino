@@ -1,10 +1,10 @@
 //Autor : FILIPEFLOP
  
 //Definicoes pinos Arduino ligados a entrada da Ponte H
-int IN1 = 4;
-int IN2 = 5;
-int IN3 = 6;
-int IN4 = 7;
+int IN1 = 2;
+int IN2 = 3;
+int IN3 = 4;
+int IN4 = 5;
  
 void setup()
 {
@@ -19,10 +19,10 @@ void loop()
 {
  //Gira o Motor A no sentido horario
  digitalWrite(IN1, HIGH);
- digitalWrite(IN2, LOW);
+ digitalWrite(IN2, HIGH);
  digitalWrite(IN3, HIGH);
  digitalWrite(IN4, LOW);
- delay(2000);
+ while(1);
  /*
  //Para o motor A
  digitalWrite(IN1, HIGH);
