@@ -1,9 +1,9 @@
 /*
 HC-SR04 Ping distance sensor
 DANIEL GOMES
-VCC to arduino 5v 
+VCC to arduino 5v
 GND to arduino GND
-Echo to Arduino pin 13 
+Echo to Arduino pin 13
 Trig to Arduino pin 12
 */
 
@@ -27,9 +27,9 @@ void loop() {
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10); // 10 us HIGH trigPin to send emitter wave
   digitalWrite(trigPin, LOW);
-  
+
   duration = pulseIn(echoPin, HIGH);//function to receive the bouncing signal and save the duration of the pulse.
-  distance = (duration/2) *0,034;
+  distance = (duration/2) *0.034;
   if (distance >= 200 || distance <= 0){//
     Serial.println("Out of range");
   }
